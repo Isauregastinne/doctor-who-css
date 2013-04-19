@@ -24,3 +24,25 @@ body {
 	margin-left: auto;
 	text-align: right;
 }
+
+.navigation {
+	padding: 0px;
+	text-align: left;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+.navigation li {
+	display: inline;
+}.navigation li a {
+	border: 2px solid #222940;
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	margin-right: 40px;
+	color: #222940;
+	text-decoration: none;
+}
