@@ -76,6 +76,8 @@ p {
 	margin-right: 5px;
 	margin-left: 5px;
 }
-.left-side home-img img{
+.left-side img {
+	text-align: left;
+	vertical-align: top;
 	border: 1px solid #000;
 }
