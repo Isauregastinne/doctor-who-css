@@ -22,9 +22,7 @@ body {
 	margin-bottom: 10px;
 	margin-right: auto;
 	margin-left: auto;
-	text-align: right;
 }
-
 .navigation {
 	padding: 0px;
 	text-align: left;
@@ -35,7 +33,8 @@ body {
 }
 .navigation li {
 	display: inline;
-}.navigation li a {
+}
+.navigation li a {
 	border: 2px solid #222940;
 	background-color: #F2F2F2;
 	padding-top: 10px;
@@ -45,4 +44,20 @@ body {
 	margin-right: 40px;
 	color: #222940;
 	text-decoration: none;
+}
+.content {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.main {
+	background-color: #f2f2f2;
+	padding: 20px;
+	border-radius: 15px;
+}
+.home-img img {
+	border: 1px solid #000;
+	margin-right: 5px;
+	margin-left: 5px;
 }
