@@ -76,3 +76,6 @@ p {
 	margin-right: 5px;
 	margin-left: 5px;
 }
+.left-side home-img img{
+	border: 1px solid #000;
+}
