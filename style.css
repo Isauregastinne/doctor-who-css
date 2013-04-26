@@ -2,7 +2,22 @@ body {
 	background-image: url(images/star-background.jpg);
 	margin: 0px;
 	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
 }
+p {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 3em;
+	margin-left: 0px;
+	line-height: 2em;
+}
+.left-side p {
+	margin-left: 50px;
+}
+
+
 .wrapper {
 	background-color: #a69f83;
 	width: 950px;
